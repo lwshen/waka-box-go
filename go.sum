@@ -1,5 +1,5 @@
-github.com/YouEclipse/wakatime-go v0.1.1 h1:NT6O3iw7SNPI5OG40eVrpTR/f6uCNmvpH8u3koc4kQY=
-github.com/YouEclipse/wakatime-go v0.1.1/go.mod h1:h4Y4peXcOv5faIKMvWAao9FCSWxxD8jU7hKtIib2fNA=
+github.com/XiaoMiKu01/wakatime-go v0.1.2 h1:dKKC3OD4BavVnZLBaz275gcZfHlk71M1jXo5wqonOGY=
+github.com/XiaoMiKu01/wakatime-go v0.1.2/go.mod h1:pBkw34dHpdH1Qr51YXx1GagjAYM+TCHAcgX922PNvOE=
 github.com/google/go-cmp v0.5.2 h1:X2ev0eStA3AbceY54o37/0PQ/UWqKEiiO2dKL5OPaFM=
 github.com/google/go-cmp v0.5.2/go.mod h1:v8dTdLbMG2kIc/vJvl+f65V22dbkXbowE6jgT/gNBxE=
 github.com/google/go-github v17.0.0+incompatible h1:N0LgJ1j65A7kfXrZnUDaYCs/Sf4rEjNlfyDHW9dolSY=
@@ -8,4 +8,5 @@ github.com/google/go-querystring v1.1.0 h1:AnCroh3fv4ZBgVIf1Iwtovgjaw/GiKJo8M8yD
 github.com/google/go-querystring v1.1.0/go.mod h1:Kcdr2DB4koayq7X8pmAG4sNG59So17icRSOU623lUBU=
 github.com/joho/godotenv v1.4.0 h1:3l4+N6zfMWnkbPEXKng2o2/MR5mSwTrBih4ZEkkz1lg=
 github.com/joho/godotenv v1.4.0/go.mod h1:f4LDr5Voq0i2e/R5DDNOoa2zzDfwtkZa6DnEwAbqwq4=
+golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543 h1:E7g+9GITq07hpfrRu66IVDexMakfv52eLZ2CXBWiKr4=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
